@@ -1,0 +1,10 @@
+pycallrail/config.py
+*.pyc
+__pycache__
+*.egg-info
+dist
+*.vscode
+*.pytest_cache
+*.mypy_cache
+*.env
+*cfg.py
